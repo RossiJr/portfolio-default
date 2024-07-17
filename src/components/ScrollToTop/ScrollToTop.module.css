@@ -43,6 +43,6 @@
 }
 
 .button:hover {
-    background-color: #0056b3;
+    background-color: var(--color-bg-dark-secondary-intensified-2);
     transform: scale(1.1);
 }
