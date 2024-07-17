@@ -1,0 +1,44 @@
+:root {
+    /* Colors */
+    --color-text: #8B4513;
+    --color-text-light: #f1e6dd;
+
+    --color-title: #743203;
+    --color-title-light: #f1e6dd;
+
+    --color-primary: #F5F5DC;
+    --color-secondary: #f1e6da;
+    --color-dark: #D2B48C;
+
+    --color-button-bg: #9b5d329a;
+
+    --color-bg: #f3dab9;
+    --color-bg-blur: #d3bda083;
+    --color-bg-dark: #D2B48C;
+    --color-bg-dark-secondary: #917653;
+    --color-bg-dark-secondary-intensified: #6e5a3f;
+    --color-bg-dark-secondary-intensified-2: #4b3d2a;
+    --color-bg-dark-blur: #b8986fb6;
+    --color-bg-dark-blur-2: #725e42b6;
+    /* Colors 
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152b;
+    */
+
+
+    :root {
+        --primary-bg-color: #DEB887; /* Darker Beige */
+        --secondary-bg-color: #F5F5DC; /* Beige */
+        --darker-bg-color: #D2B48C; /* Tan */
+        --primary-text-color: #8B4513; /* Dark Brown */
+        --secondary-text-color: #A0522D; /* Sienna */
+        --border-color: #D2B48C; /* Burlywood */
+        --button-bg-color: #F4A460; /* Sandy Brown */
+        --button-text-color: #FFFFFF; /* White */
+        --footer-bg-color: #A0522D; /* Sienna */
+      }
+    /* Fonts */
+}

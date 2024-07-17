@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Spring Boot",
+      "imageSrc": "skills/springboot_colored.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/java-script_colored.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python_colored.png"
+    },
+    {
+      "title": "JSF",
+      "imageSrc": "skills/jsf_colored.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react_colored.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql_colored.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/postgre_colored.png"
+    },
+    {
+      "title": "Power BI",
+      "imageSrc": "skills/powerbi_colored.png"
+    }
+  ]

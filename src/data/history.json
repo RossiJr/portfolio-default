@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Data Analyst",
+    "organisation": "SERPRO",
+    "startDate": "Dec, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "ETL script development",
+      "Complex SQL query construction for data integration",
+      "Power BI dashboard bulding"
+    ],
+    "imageSrc": "history/serpro.png",
+    "companyWebsite": "https://www.serpro.gov.br/"
+  },
+  {
+    "role": "Monitor | Software Developer",
+    "organisation": "PUC Minas",
+    "startDate": "Apr, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": [
+      "Algorith and Data Structure I, II monitor",
+      "Java, Python, C, C++"
+    ],
+    "imageSrc": "history/puc.png",
+    "companyWebsite": "https://www.pucminas.br/"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Prime Results",
+    "startDate": "Set, 2021",
+    "endDate": "Mar, 2022",
+    "experiences": [
+      "Worked with Java, Spring Boot, JSF",
+      "MySQL database optimization",
+      "Front-end development with Primefaces"
+    ],
+    "imageSrc": "history/prime.png",
+    "companyWebsite": "https://www.primeresults.com.br/"
+  }
+]
